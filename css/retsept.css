@@ -18,3 +18,9 @@ body {
     width: 50%;
     margin: 0 auto;
 }
+
+img {
+    border-radius: 8px;
+    margin: 0 auto;
+    width: 300px;
+}
